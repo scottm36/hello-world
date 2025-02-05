@@ -1,2 +1,2 @@
-# hello-world
+# hello world
 Standard Hello World repository
